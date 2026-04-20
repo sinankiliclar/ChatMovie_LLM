@@ -154,8 +154,3 @@ Here are some highly rated sci-fi movies...
 * 🔌 API layer (FastAPI)
 * 🔄 Auto-sync with TMDB
 
----
-
-## 📄 License
-
-MIT License
